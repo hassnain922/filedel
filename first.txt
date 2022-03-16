@@ -3,4 +3,7 @@ continue studies
 fast fowrd merge 
 in smart git
 
-in dev branch
+in master branch 
+
+
+ chanes in commit merge
