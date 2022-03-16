@@ -1,9 +1,4 @@
-continue studies
-
-fast fowrd merge 
-in smart git
-
-in master branch 
+hello
 
 
- chanes in commit merge
+updated for merge
