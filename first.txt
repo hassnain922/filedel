@@ -4,3 +4,5 @@ fast fowrd merge
 in smart git
 
 in dev branch
+
+update for merge commit
