@@ -1,4 +1,8 @@
-hello
+continue studies
 
+fast fowrd merge 
+in smart git
 
-updated for merge
+in dev branch
+
+ updated for rebase in demorebase
